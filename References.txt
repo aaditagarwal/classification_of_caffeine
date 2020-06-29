@@ -1,0 +1,23 @@
+Resources for approach to the project:
+1] https://www.nature.com/articles/s41598-019-55543-7.pdf 
+
+Possible data acquisition approaches:
+2] https://www.researchgate.net/publication/235781964_Discrimination_of_Arabica_natural_Arabica_washed_and_Robusta_coffee_through_NIR_spectroscopy_and_artificial_tongue_analysis 
+
+Chemometrics:
+3] https://www.frontiersin.org/articles/10.3389/fchem.2018.00576/full#B28 
+
+Unscrambler tool used in 3rd approach:
+4] https://www.camo.com/unscrambler/#trial 
+
+PCA for visualization:
+5] https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60 
+
+For Model visualization:
+5] https://towardsdatascience.com/how-to-visualize-a-decision-tree-from-a-random-forest-in-python-using-scikit-learn-38ad2d75f21c
+
+For Dimensionality reduction and its automation
+6] https://machinelearningmastery.com/calculate-principal-component-analysis-scratch-python/ 
+
+For SNV normalization:
+7] http://www.models.life.ku.dk/sites/default/files/preproNIR.pdf
